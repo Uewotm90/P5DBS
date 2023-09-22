@@ -1,0 +1,4 @@
+SELECT gid
+FROM studygroup
+EXCEPT
+SELECT
